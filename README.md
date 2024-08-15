@@ -4,4 +4,8 @@
 #### smaller
  ##### smaller 
 
+
+*italic*
+
+  **bold**
  
